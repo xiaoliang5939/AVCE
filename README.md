@@ -4,6 +4,8 @@
  
  Video link：https://youtu.be/5GPBzBXBggk
  
+ PDF：https://github.com/xiaoliang5939/AVCE/blob/main/Legend%20of%20hanzi%20%201.pdf
+ 
  Author: Xiao Liang
 
  Student ID: 22010608
@@ -22,7 +24,12 @@
 调研和挑选 建模方式
 
 # Week 6 
-本周我完成了对象形文字的建模
+
+本周我完成了对象形文字的建模。我按照创建笔刷的方式使用blender对文字进行建模。
+
+<img width="1440" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/a3d43ee2-886a-4871-9d02-84ae0ee3a1a1">
+
+
 
 # Week 7
 流程图
