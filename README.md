@@ -117,12 +117,14 @@ For this test, we tested the feasibility of homemade screens, and together we te
 
 <img width="947" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/542f0005-f628-4146-83be-f10994526d66">
 
+Visual effects assets：https://github.com/xiaoliang5939/AVCE/tree/main/Visual%20effects%20assets
+
 
 # Week 8
 
 This week I studied the background music for our game.Since the theme of our game is about traditional Chinese characters, I hope to find suitable music with Chinese characteristics.While searching, I found that although they were all classical Chinese music, they sounded very different in terms of emotional content.Some music is too big for our game, and some music is too sad for our game.Out of a lot of music, I finally chose "Jiangshangqingfeng" and "Pingxuyufeng" as the background music for the game.
 
-Audio element file：https://github.com/xiaoliang5939/AVCE/tree/main/Audio%20assets
+Audio element file：https://artslondon-my.sharepoint.com/:f:/g/personal/x_liang0220222_arts_ac_uk/EkJ2fd-4bvRAqbUxd_1b1ZEB3jcgYzQe7WsjWVPbS2EjfQ?e=bZIxkD
 
 Access to music：[bilibili](https://www.bilibili.com)
 
