@@ -230,7 +230,6 @@ I also wrote a video script this week. We figured out what our video should be a
 
 
 Conduct the second group test. The participants of this test are：Yining Jiang 、Zhou Fang、 Xiao Liang
-
 Check out our test video here：
 https://artslondon-my.sharepoint.com/:v:/g/personal/x_liang0220222_arts_ac_uk/Eeb1GuxUenRLrbYyqNfCGO4Bb4YcYcX5_JMpe8vkKhXuZg?e=KWm7eZ
 
