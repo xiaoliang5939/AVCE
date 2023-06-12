@@ -41,11 +41,11 @@
 
 # Week 7
 
-在周的流程图的基础上补充了完整的流程图，并为之后的完整pdf作准备。
+##在周的流程图的基础上补充了完整的流程图，并为之后的完整pdf作准备。
 
 <img width="621" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/b62e330d-7f6a-4c33-84ce-8cd0636b6f80">
 
-同时，本周我需要做出游戏内的提示样式。
+##同时，本周我需要做出游戏内的提示样式。
 
 在设计的过程中，我想让提示更加具有我们游戏的特色。为此我参考了一些中国古代书法的样式
 
@@ -71,16 +71,11 @@
 
 <img width="629" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/ec0527d7-be8a-4641-8b1e-8a6119dcac8f">
 
-<img width="629" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/9bdfe5a3-2114-4a60-92d7-7822c72dcd02">
-
 <img width="875" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/5e20604b-08df-4dd4-b0c1-9341a430893d">
 
 <img width="888" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/77a61db1-60e6-4c43-8499-cd76fddd92df">
 
-
-
-按钮
-测试1
+##进行第一次集体测试
 
 # Week 8
 音乐和配音
