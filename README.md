@@ -143,18 +143,66 @@ I also wrote a video script this week. We figured out what our video should be a
 
 Conduct the second group test. The participants of this test are：Yining Jiang 、Zhou Fang、 Xiao Liang
 
+Check out our test video here：
+https://artslondon-my.sharepoint.com/:v:/g/personal/x_liang0220222_arts_ac_uk/Eeb1GuxUenRLrbYyqNfCGO4Bb4YcYcX5_JMpe8vkKhXuZg?e=KWm7eZ
 
-icone
+
+Icon design
+
+I wrote “汉字” by hand using elements of Chinese calligraphy. At the same time overlay the background elements to form our icon.
+
+
 
 <img width="685" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/b124c1b3-0e5b-49f1-93e5-7a1d08ce4a9d">
 
-icone
+Hanzi
+（Chinese characters）
+
+<img width="178" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/4e7c4804-459c-42ec-9d0f-e898de0a9c71">
+
+Visual effects assets：https://github.com/xiaoliang5939/AVCE/tree/main/Visual%20effects%20assets
+
+
+This week I also finished editing the first two pages of the portfolio of this work.
+
+
 
 # Week 9
-测试和搭建
-做文档
-视频文案剪视频
 
+Construction and arrangement
+We finished the final test and set up the scene.
+
+<img width="438" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/4cfa427d-56e3-4fe4-828c-6e31e4a43be4">
+
+<img width="435" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/7c2564b8-c92e-4d73-936b-5f07a190e43d">
+
+<img width="438" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/0b521b07-6cf5-4475-b09b-6af01b19caca">
+
+
+Finally, we finished decorating our small exhibition together and invited friends to experience it. Players enjoy our game when they play it.
+
+And I finished shooting all the video footage.
+
+<img width="437" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/7f705191-63e9-4168-87d5-837f64b41f73">
+
+<img width="385" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/36afc397-d87e-4bbb-807d-99f601c6dddd">
+
+<img width="382" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/97f4bd13-0801-42fb-b1c4-c97a7ebf8bf4">
+
+<img width="382" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/2facd235-d752-4a27-a97f-0885e50a294d">
+
+<img width="383" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/3cf2468e-296a-4229-a550-dae1968ac1bc">
+
+<img width="383" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/65a7a107-2b62-4727-ac62-98e1fa6c93fd">
+
+
+I finished all the editing of the pdf document of our work in the last week, please see this link for details:
+https://github.com/xiaoliang5939/AVCE/blob/main/Legend%20of%20hanzi%20%201.pdf
+
+In addition, I completed the video clip of our work and the copy editing of the explanation in the video, please see this link for details:
+https://youtu.be/5GPBzBXBggk
+
+Video explanation dubbing is completed for each of our group.
 
 
 
