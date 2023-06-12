@@ -24,7 +24,23 @@
  
  
 # Week 4
-上学期内容和讨论，讨论出游戏雏形
+This week marks our first group discussion of the term.  Following our discussion, we aim to carry out iterative design based on the work we did last semester, titled 'Tower of Babel,' a motion-sensory interactive game inspired by the Tower of Babel story, contributed by Yining.  Last semester, we utilized four sensors to achieve the desired game interaction.  For this term, we have decided to continue with this interaction method and build upon it through iterative design.
+
+<img width="475" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/effe124a-9458-49e2-a8bd-56ae722766b5">
+
+<img width="349" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/5261d9b2-97f8-459b-876c-a7dcd4e2f821">
+
+<img width="475" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/effe124a-9458-49e2-a8bd-56ae722766b5">
+
+<img width="383" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/fa66a8d0-81d8-4ac7-8bc8-b5a331fbfa4c">
+
+
+During the brainstorming process, I suggested incorporating elements of ancient Chinese hieroglyphics to symbolize the idea of overcoming language barriers in the Tower of Babel.  In terms of interaction, I was influenced by the recent game 'Legend of Zelda' and proposed the inclusion of a bow and arrow mechanic.  After discussing this idea, we unanimously agreed to adopt it.
+
+Building on these concepts, we further discussed the complete game flow, which involves dividing the game into two levels.  In the first level, users will need to select the correct image corresponding to the English words they hear, using our unique bow.  For the second level, players will observe the evolution of hieroglyphics into modern Chinese characters and aim to hit the bull's eye as accurately as possible using darts.
+
+During the discussion, Zhou expressed her desire to incorporate new sensors in an iterative manner, ensuring they do not pose any health risks.  This consideration stems from our previous experience where, in the last exhibition of the previous semester, we chose to forgo one sensor to prioritize health and safety.  Yining proposed a novel approach using Rubber Conductive Wire sensors attached to the bow and arrow.
+
 
 # Week 5
 
