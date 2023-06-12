@@ -24,6 +24,7 @@
  
  
 # Week 4
+
 This week marks our first group discussion of the term.  Following our discussion, we aim to carry out iterative design based on the work we did last semester, titled 'Tower of Babel,' a motion-sensory interactive game inspired by the Tower of Babel story, contributed by Yining.  Last semester, we utilized four sensors to achieve the desired game interaction.  For this term, we have decided to continue with this interaction method and build upon it through iterative design.
 
 <img width="475" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/effe124a-9458-49e2-a8bd-56ae722766b5">
@@ -32,6 +33,7 @@ This week marks our first group discussion of the term.  Following our discussio
 
 <img width="383" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/fa66a8d0-81d8-4ac7-8bc8-b5a331fbfa4c">
 
+<img width="849" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/65c5065b-afeb-4321-828f-06acc344a01d">
 
 During the brainstorming process, I suggested incorporating elements of ancient Chinese hieroglyphics to symbolize the idea of overcoming language barriers in the Tower of Babel.  In terms of interaction, I was influenced by the recent game 'Legend of Zelda' and proposed the inclusion of a bow and arrow mechanic.  After discussing this idea, we unanimously agreed to adopt it.
 
