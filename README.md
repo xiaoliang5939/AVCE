@@ -4,7 +4,7 @@
  
  Video link：https://youtu.be/5GPBzBXBggk
  
- PDF：https://github.com/xiaoliang5939/AVCE/blob/main/Legend%20of%20hanzi%20%201.pdf
+ Outlines the design and development PDF：https://github.com/xiaoliang5939/AVCE/blob/main/Legend%20of%20hanzi%20%201.pdf
  
  Author: Xiao Liang
 
