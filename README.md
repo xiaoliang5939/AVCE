@@ -77,6 +77,9 @@ In this week's group discussion we worked together to select the hieroglyphs we 
 
 <img width="318" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/942653ed-297f-48f5-983f-4da0b41ef880">
 
+From these four modeling styles, Zhou and I chose the second one. Reference link：https://www.bilibili.com/video/BV1PV4y1Z73e/?spm_id_from=333.788.recommend_more_video.11&vd_source=75160127f8394433f97c8d8727c85672
+ 
+
 <img width="417" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/f0d7ebb2-713c-4fca-9eca-4bad85cf281e">
 
 <img width="791" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/cdf722c6-4b99-43e9-976f-717a37ef5505">
@@ -86,8 +89,7 @@ In this week's group discussion we worked together to select the hieroglyphs we 
 <img width="605" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/86b072e0-cbb4-46b4-a7df-4978179bd52c">
 
 
-From these four modeling styles, Zhou and I chose the second one. Reference link：https://www.bilibili.com/video/BV1PV4y1Z73e/?spm_id_from=333.788.recommend_more_video.11&vd_source=75160127f8394433f97c8d8727c85672
- 
+
 
 
 
