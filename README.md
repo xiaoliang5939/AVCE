@@ -41,11 +41,13 @@
 
 # Week 7
 
-##在周的流程图的基础上补充了完整的流程图，并为之后的完整pdf作准备。
+在周的流程图的基础上补充了完整的流程图，并为之后的完整pdf作准备。
 
 <img width="621" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/b62e330d-7f6a-4c33-84ce-8cd0636b6f80">
 
-##同时，本周我需要做出游戏内的提示样式。
+
+
+同时，本周我需要做出游戏内的提示样式。
 
 在设计的过程中，我想让提示更加具有我们游戏的特色。为此我参考了一些中国古代书法的样式
 
@@ -75,7 +77,28 @@
 
 <img width="888" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/77a61db1-60e6-4c43-8499-cd76fddd92df">
 
-##进行第一次集体测试
+
+
+进行第一次集体测试。本次测试参与成员有：Yining Jiang 、Zhou Fang、 Xiao Liang。
+
+我们选择了dark lab作为最终拍视频场所。并且，由于我们的作品需要对屏幕飞飞镖，所以我们需要自己制作安全的屏幕。我们多次尝试后，选择使用学校的桌子立起来后作为投屏的屏幕。关于遮挡物，我们需要遮挡的幕布不能透出后面的磁吸板子，但是还需要可以磁力飞镖可以吸附在上面。我去了市场，最终选择了白色的窗帘。
+
+<img width="537" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/01a74693-581e-4e51-9e7a-5a3b66585835">
+
+本此测试我们测试了自制屏幕的可行性，并一起测试了传感器部分。
+
+<img width="939" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/99a9adbe-2f18-4d9c-9789-88563c74c503">
+
+<img width="948" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/3af64b83-7c63-42b2-b040-8af68a4cc287">
+
+<img width="941" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/6e0213d3-aee7-46dd-8856-0b1d64e0cd60">
+
+<img width="948" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/2b239e85-626d-40fe-8054-bb4a44e37907">
+
+<img width="945" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/9a0dab23-89ad-4720-8bdf-d539880e1472">
+
+<img width="947" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/542f0005-f628-4146-83be-f10994526d66">
+
 
 # Week 8
 音乐和配音
