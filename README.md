@@ -10,12 +10,17 @@
 
  Student ID: 22010608
  
- Group member：
- Han Hsun Shih、 
- Xiao Liang、 
- Yining Jiang、 
- Zhou Fang
- 
+ Yining Jiang(Jenny): Unity content integration, Arduino code integration, Arduino to Unity communication.
+
+ Zhou Fang(Nora): Hardware code(Arduino), project planning, 3D modelling, Foley, physical device assembly.
+
+ Xiao Liang(Luna): Audio assets, visual effects assets, 3D modelling, video shooting and editing, documentation.
+
+ Han Hsun Shih(Amy): Art assets.
+
+ Collaborative completion: Multiple testing, physical environment setup, and small-scale player experience exhibition.
+
+ Inheritance from the previous term: Inspiration from the Tower of Babel, improving signal transmission efficiency between Arduino and   Unity, changes in code structure.
  
 # Week 4
 上学期内容和讨论，讨论出游戏雏形
