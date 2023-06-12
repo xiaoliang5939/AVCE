@@ -62,7 +62,8 @@ The spear was a favorite weapon of the ancient infantry, usually holding a shiel
 
 Definition source：https://history.sohu.com/a/679839761_121166559
 
-In this week's group discussion we worked together to select the hieroglyphs we wanted to use in the game, and chose one of three modelling styles that suited us
+In this week's group discussion we worked together to select the hieroglyphs we wanted to use in the game
+
  
  <img width="1036" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/125271d5-e820-4d4c-8d9d-c5d754b1a533">
 
@@ -76,7 +77,16 @@ In this week's group discussion we worked together to select the hieroglyphs we 
 
 <img width="318" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/942653ed-297f-48f5-983f-4da0b41ef880">
 
+<img width="417" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/f0d7ebb2-713c-4fca-9eca-4bad85cf281e">
 
+<img width="791" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/cdf722c6-4b99-43e9-976f-717a37ef5505">
+
+<img width="568" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/70f155f3-5b43-404c-ae32-95a3e281404f">
+
+<img width="605" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/86b072e0-cbb4-46b4-a7df-4978179bd52c">
+
+
+From these four modeling styles, Zhou and I chose the second one. Reference link：https://www.bilibili.com/video/BV1PV4y1Z73e/?spm_id_from=333.788.recommend_more_video.11&vd_source=75160127f8394433f97c8d8727c85672
  
 
 
