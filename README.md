@@ -199,7 +199,9 @@ Hanzi
 
 We added and supplemented the design of buttons in the game. This time, we still used the side radicals of Chinese brush to design the button style of our own game.
 
-<img width="471" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/e0d57b84-9ea9-4d71-8379-fed8643d8ef2">
+<img width="1048" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/baee7061-f76c-4066-aefe-a011c2f667d8">
+
+<img width="1049" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/f7b4988f-7a7c-461a-98b8-2fcd2d52561a">
 
 <img width="695" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/6d1ddcc7-b613-4b27-9c6c-328a7bd8f6cf">
 
