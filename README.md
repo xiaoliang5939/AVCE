@@ -35,6 +35,8 @@ This week marks our first group discussion of the term.  Following our discussio
 
 <img width="849" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/65c5065b-afeb-4321-828f-06acc344a01d">
 
+
+
 During the brainstorming process, I suggested incorporating elements of ancient Chinese hieroglyphics to symbolize the idea of overcoming language barriers in the Tower of Babel.  In terms of interaction, I was influenced by the recent game 'Legend of Zelda' and proposed the inclusion of a bow and arrow mechanic.  After discussing this idea, we unanimously agreed to adopt it.
 
 Building on these concepts, we further discussed the complete game flow, which involves dividing the game into two levels.  In the first level, users will need to select the correct image corresponding to the English words they hear, using our unique bow.  For the second level, players will observe the evolution of hieroglyphics into modern Chinese characters and aim to hit the bull's eye as accurately as possible using darts.
