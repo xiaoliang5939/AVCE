@@ -120,6 +120,8 @@ For this test, we tested the feasibility of homemade screens, and together we te
 
 This week I studied the background music for our game.Since the theme of our game is about traditional Chinese characters, I hope to find suitable music with Chinese characteristics.While searching, I found that although they were all classical Chinese music, they sounded very different in terms of emotional content.Some music is too big for our game, and some music is too sad for our game.Out of a lot of music, I finally chose "Jiangshangqingfeng" and "Pingxuyufeng" as the background music for the game.
 
+Audio element file：https://github.com/xiaoliang5939/AVCE/tree/main/Audio%20assets
+
 Access to music：[bilibili](https://www.bilibili.com)
 
 Also this week, we learned how to create sound effects for our games ourselves. We need exactly three sound effects for our game, namely the bow sound, the bow sound, and the darts sound.I found it difficult to simulate the special effects of drawing and releasing the bow.Because he needed something very elastic and tough as a simulation, I used sticks and plastic bags to simulate, but the effect was not ideal.But Zhou used the collision of metal and wood to simulate the Foley of a dart hitting a darts sound.So we finally decided to use Zhou's Foley as the sound of a dart hitting a target.Then I found the right sound effects for bow drawing and archery on the Internet.
