@@ -93,7 +93,7 @@ Based on this, I chose the radicals as the cue background and drew a different b
 
 
 
-Conduct the first group test. The participants of this test are：Yining Jiang 、Zhou Fang、 Xiao Liang。
+Conduct the first group test. The participants of this test are：Yining Jiang 、Zhou Fang、 Xiao Liang
 
 
 We chose dark lab as the final filming location.And since our work requires darts at the screen, we need to make our own safe screens.After many attempts, we chose to use the school table as a projection screen after standing up.As for the occlude, we need to occlude the screen so that it doesn't reveal the magnetic board behind it, but it also needs to be able to attach the magnetic dart to it.I went to the market and finally chose white curtains.
@@ -130,13 +130,24 @@ Access to music：[bilibili](https://www.bilibili.com)
 
 Also this week, we learned how to create sound effects for our games ourselves. We need exactly three sound effects for our game, namely the bow sound, the bow sound, and the darts sound.I found it difficult to simulate the special effects of drawing and releasing the bow.Because he needed something very elastic and tough as a simulation, I used sticks and plastic bags to simulate, but the effect was not ideal.But Zhou used the collision of metal and wood to simulate the Foley of a dart hitting a darts sound.So we finally decided to use Zhou's Foley as the sound of a dart hitting a target.Then I found the right sound effects for bow drawing and archery on the Internet.
 
+Audio element file：https://artslondon-my.sharepoint.com/:f:/g/personal/x_liang0220222_arts_ac_uk/EkJ2fd-4bvRAqbUxd_1b1ZEB3jcgYzQe7WsjWVPbS2EjfQ?e=bZIxkD
+
 Access to music：[bilibili](https://www.bilibili.com)
 
 I also wrote a video script this week. We figured out what our video should be about and how long it would last.
 
+<img width="727" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/1454c780-1993-4776-afb6-afb6436314b3">
 
 
-测试2
+
+
+Conduct the second group test. The participants of this test are：Yining Jiang 、Zhou Fang、 Xiao Liang
+
+
+icone
+
+<img width="685" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/b124c1b3-0e5b-49f1-93e5-7a1d08ce4a9d">
+
 icone
 
 # Week 9
