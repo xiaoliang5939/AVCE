@@ -44,6 +44,8 @@ During the process of making this 3d model, I learned how to create brushes in b
 
 In this week's group discussion, I poured the modeled 3d text separately and gave it to Yining, who imported our modeled text into unity.
 
+3D model：https://github.com/xiaoliang5939/AVCE/tree/main/Blender%203D%20model
+
 # Week 7
 
 On the basis of the Zhou's flow chart, a complete flow chart is added and prepared for the full pdf later.
