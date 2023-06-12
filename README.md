@@ -22,6 +22,22 @@
 
  Inheritance from the previous term: Inspiration from the Tower of Babel, improving signal transmission efficiency between Arduino and   Unity, changes in code structure.
  
+ In this week's group discussion we worked together to select the hieroglyphs we wanted to use in the game, and chose one of three modelling styles that suited us
+ 
+ <img width="1036" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/125271d5-e820-4d4c-8d9d-c5d754b1a533">
+
+<img width="1033" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/2e2c3917-835a-4374-b048-f444c4938dad">
+
+<img width="1029" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/77e6161d-d060-40c7-b354-2214d5be16ed">
+
+<img width="319" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/d5de89f2-2590-411e-bb8b-d0c971f939c0">
+
+<img width="323" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/79b99fc4-e5e4-4daa-8225-3dff3de3e0bb">
+
+<img width="318" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/942653ed-297f-48f5-983f-4da0b41ef880">
+
+
+ 
 # Week 4
 上学期内容和讨论，讨论出游戏雏形
 
