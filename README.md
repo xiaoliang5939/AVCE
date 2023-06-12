@@ -30,8 +30,6 @@ This week marks our first group discussion of the term.  Following our discussio
 
 <img width="349" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/5261d9b2-97f8-459b-876c-a7dcd4e2f821">
 
-<img width="475" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/effe124a-9458-49e2-a8bd-56ae722766b5">
-
 <img width="383" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/fa66a8d0-81d8-4ac7-8bc8-b5a331fbfa4c">
 
 
