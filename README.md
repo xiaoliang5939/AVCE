@@ -22,6 +22,8 @@
 
 # Week 5
 
+RESEARCH
+
 Hieroglyphics
 
 Oracle bone inscriptions are the earliest mature Chinese characters we can see, and they are named for their engraving and writing on tortoise shells and animal bones. 
@@ -194,6 +196,15 @@ Hanzi
 （Chinese characters）
 
 <img width="178" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/4e7c4804-459c-42ec-9d0f-e898de0a9c71">
+
+We added and supplemented the design of buttons in the game. This time, we still used the side radicals of Chinese brush to design the button style of our own game.
+
+<img width="471" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/e0d57b84-9ea9-4d71-8379-fed8643d8ef2">
+
+<img width="695" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/6d1ddcc7-b613-4b27-9c6c-328a7bd8f6cf">
+
+
+
 
 Visual effects assets：https://github.com/xiaoliang5939/AVCE/tree/main/Visual%20effects%20assets
 
