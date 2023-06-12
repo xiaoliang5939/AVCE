@@ -25,47 +25,47 @@
 
 # Week 6 
 
-本周我完成了对象形文字的建模。我按照创建笔刷的方式使用blender对文字进行建模。
+This week I finished modeling object text. I used blender to model the text in the same way I created brushes.
 
-我选择建模的文字为：月、口、云、水、雨、木
+I chose to model the text as: moon, mouth, cloud, water, rain, wood.(月、口、云、水、雨、木)
 
 <img width="1440" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/537d402e-b128-4383-b18c-5200fda22904">
 
 <img width="1440" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/a3d43ee2-886a-4871-9d02-84ae0ee3a1a1">
 
-在制作这个3d模型的过程中，我学习到了如何在blender中创建笔刷，并可以熟练对笔刷进行压力大小的调整。
+During the process of making this 3d model, I learned how to create brushes in blender and became proficient in adjusting the pressure of the brushes.
 
 <img width="1440" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/b9388da3-7818-4a18-962e-53ea2ccca7cb">
 
-在本周的小组讨论中，我将建模的3d文字分别倒出并给到Yining，Yining将我们的建模文字导入unity中。
+In this week's group discussion, I poured the modeled 3d text separately and gave it to Yining, who imported our modeled text into unity.
 
 # Week 7
 
-在周的流程图的基础上补充了完整的流程图，并为之后的完整pdf作准备。
+On the basis of the week's flow chart, a complete flow chart is added and prepared for the full pdf later.
 
 <img width="621" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/b62e330d-7f6a-4c33-84ce-8cd0636b6f80">
 
 
 
-同时，本周我需要做出游戏内的提示样式。
+Also, this week I need to make an in-game hint style.
 
-在设计的过程中，我想让提示更加具有我们游戏的特色。为此我参考了一些中国古代书法的样式
+During the design process, I wanted to make the prompts more specific to our game. For this purpose I refer to some styles of ancient Chinese calligraphy
 
 <img width="447" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/d671d6e3-c6d2-4db2-ac45-b9cda7827b14">
 
 <img width="572" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/ce45d09a-0227-46d8-b907-85f55ef2c8f1">
 
-我想尝试使用书法来呈现英文的样式
+I want to try to use calligraphy to present the English style
 
 <img width="973" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/90111f0e-ac00-40e7-ae93-485a1615a888">
 
-但是由于我没有专业学过书法，已经英文和中文本身书写的差异性，我觉得效果并不好。所以我想，也许可以使用一些书法中的元素，作为提示的背景出现，所以我参考了一些书法中的偏旁部首元素。
+However, because I have not learned calligraphy professionally, I have already learned the difference between English and Chinese writing, and I think the effect is not good. So I thought maybe I could use some elements of calligraphy as a background for the hint, so I referred to some elements of radicals in calligraphy.
 
 <img width="614" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/4a2d7ffc-8de4-4a3d-85a0-6727f889ae91">
 
 <img width="942" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/0f7a61fc-a609-42a9-a178-7e5225c76b40">
 
-以此为基础，我选用了偏旁部首作为提示背景，并为每个提示画了不同的背景。
+Based on this, I chose the radicals as the cue background and drew a different background for each cue.
 
 <img width="1035" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/8f7d8007-c932-4953-aca6-2db61be6487e">
 
@@ -79,13 +79,13 @@
 
 
 
-进行第一次集体测试。本次测试参与成员有：Yining Jiang 、Zhou Fang、 Xiao Liang。
+Conduct the first group test. The participants of this test are：Yining Jiang 、Zhou Fang、 Xiao Liang。
 
-我们选择了dark lab作为最终拍视频场所。并且，由于我们的作品需要对屏幕飞飞镖，所以我们需要自己制作安全的屏幕。我们多次尝试后，选择使用学校的桌子立起来后作为投屏的屏幕。关于遮挡物，我们需要遮挡的幕布不能透出后面的磁吸板子，但是还需要可以磁力飞镖可以吸附在上面。我去了市场，最终选择了白色的窗帘。
+We chose dark lab as the final filming location.And since our work requires darts at the screen, we need to make our own safe screens.After many attempts, we chose to use the school table as a projection screen after standing up.As for the occlude, we need to occlude the screen so that it doesn't reveal the magnetic board behind it, but it also needs to be able to attach the magnetic dart to it.I went to the market and finally chose white curtains.
 
 <img width="537" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/01a74693-581e-4e51-9e7a-5a3b66585835">
 
-本此测试我们测试了自制屏幕的可行性，并一起测试了传感器部分。
+For this test, we tested the feasibility of homemade screens, and together we tested the sensor part.
 
 <img width="939" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/99a9adbe-2f18-4d9c-9789-88563c74c503">
 
