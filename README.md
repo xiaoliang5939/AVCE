@@ -2,13 +2,18 @@
 
  Group work
  
+ Author: Xiao Liang
+
+ Student ID: 22010608
+ 
  Video link：https://youtu.be/5GPBzBXBggk
  
  Outlines the design and development PDF：https://github.com/xiaoliang5939/AVCE/blob/main/Legend%20of%20hanzi%20%201.pdf
  
- Author: Xiao Liang
+ Journal link：
+https://github.com/xiaoliang5939/AVCE/blob/main/Journal.md
+ 
 
- Student ID: 22010608
  
  Yining Jiang(Jenny): Unity content integration, Arduino code integration, Arduino to Unity communication.
 
