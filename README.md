@@ -25,7 +25,7 @@
  
 # Week 4
 
-This week marks our first group discussion of the term.  Following our discussion, we aim to carry out iterative design based on the work we did last semester, titled 'Tower of Babel,' a motion-sensory interactive game inspired by the Tower of Babel story, contributed by Yining.  Last semester, we utilized four sensors to achieve the desired game interaction.  For this term, we have decided to continue with this interaction method and build upon it through iterative design.
+This week marks our first group discussion of the term.  Following our discussion, we aim to carry out iterative design based on the work we did last term, titled 'Tower of Babel,' a motion-sensory interactive game inspired by the Tower of Babel story, contributed by Yining.  Last term, we utilized four sensors to achieve the desired game interaction.  For this term, we have decided to continue with this interaction method and build upon it through iterative design.
 
 <img width="349" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/5261d9b2-97f8-459b-876c-a7dcd4e2f821">
 
