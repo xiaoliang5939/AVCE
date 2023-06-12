@@ -21,6 +21,41 @@
 上学期内容和讨论，讨论出游戏雏形
 
 # Week 5
+
+Hieroglyphics
+
+Oracle bone inscriptions are the earliest mature Chinese characters we can see, and they are named for their engraving and writing on tortoise shells and animal bones. 
+
+‘Know what it is, know why.’ The origin of Chinese characters reveals the original intention of modern Chinese characters, which is quite beneficial to learn.
+
+<img width="314" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/f84f8e5e-d30a-41af-b563-e3d90fb98dd5">
+
+Definition source：http://www.360doc.com/content/12/0121/07/15820106_1080831969.shtml
+
+Chinese oracle bone script is the best preserved Chinese character font. The Chinese characters we use today originated from this hieroglyphic system.
+
+<img width="360" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/e992348a-30ad-4322-aefb-42e84c542fbc">
+
+Interactive mode
+
+Darts are small, easy to operate, have a long range, are highly concealed, and have extremely sharp spikes. And very deadly, because the user would coat the darts with poison.
+
+<img width="451" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/ba85c246-12f7-412c-902d-a5a510e11dcf">
+
+Definition source：https://baijiahao.baidu.com/s?id=1740309703812868082&wfr=spider&for=pc
+
+The bow and arrow is a rare remote weapon in ancient cold weapons, according to legend, the bow and arrow was invented by the ancestor of Zhang, so it was given the surname Zhang. Ancient bows and arrows are very dangerous long-range cold weapons.
+
+<img width="390" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/9aea9952-d348-49eb-884b-48d25c802f79">
+
+The spear was a favorite weapon of the ancient infantry, usually holding a shield in one hand and a spear in the other. The length of the spear is generally about five meters, and the red fringes on the spear can disturb the enemy's view.
+
+<img width="626" alt="image" src="https://github.com/xiaoliang5939/AVCE/assets/76156342/180c6946-ee08-452c-9b1c-342933dac5bf">
+
+Definition source：https://history.sohu.com/a/679839761_121166559
+
+
+
 调研和挑选 建模方式
 
 # Week 6 
